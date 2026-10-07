@@ -1,0 +1,168 @@
+Uri: https://amfdigitalstudio-story.com/fonts/brigesta/fonts.css
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\fonts\brigesta\fonts.css
+Content Type: text/css
+
+Uri: https://amfdigitalstudio-story.com/fonts/brittany_signature/BrittanySignature.css
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\fonts\brittany_signature\BrittanySignature.css
+Content Type: text/css
+
+Uri: https://amfdigitalstudio-story.com/fonts/heatwood/Heatwood.css
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\fonts\heatwood\Heatwood.css
+Content Type: text/css
+
+Uri: https://amfdigitalstudio-story.com/fonts/hoppipola/fonts.css
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\fonts\hoppipola\fonts.css
+Content Type: text/css
+
+Uri: https://amfdigitalstudio-story.com/fonts/photograph_signature/fonts.css
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\fonts\photograph_signature\fonts.css
+Content Type: text/css
+
+Uri: https://amfdigitalstudio-story.com/images/btn_app_store.png
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\images\btn_app_store.png
+Content Type: image/png
+
+Uri: https://amfdigitalstudio-story.com/images/btn_play_store.png
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\images\btn_play_store.png
+Content Type: image/png
+
+Uri: https://amfdigitalstudio-story.com/images/instagram.png
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\images\instagram.png
+Content Type: image/png
+
+Uri: https://amfdigitalstudio-story.com/images/no-image.jpg
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\images\no-image.jpg
+Content Type: image/jpeg
+
+Uri: https://amfdigitalstudio-story.com/plugins/animate.css@4.1.1/animate.min.css
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\plugins\animate.css@4.1.1\animate.min.css
+Content Type: text/css
+
+Uri: https://amfdigitalstudio-story.com/preview/purple-flowers
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\preview\purple-flowers.html
+Content Type: text/html
+
+Uri: https://amfdigitalstudio-story.com/themes/purple-flowers/bg.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\purple-flowers\bg.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/purple-flowers/bm-1.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\purple-flowers\bm-1.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/purple-flowers/bm-2.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\purple-flowers\bm-2.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/purple-flowers/circle.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\purple-flowers\circle.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/purple-flowers/frame-bride.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\purple-flowers\frame-bride.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/purple-flowers/frame-groom.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\purple-flowers\frame-groom.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/purple-flowers/tm-1.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\purple-flowers\tm-1.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/purple-flowers/tm-2.webp
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\purple-flowers\tm-2.webp
+Content Type: image/webp
+
+Uri: https://amfdigitalstudio-story.com/themes/theme-app.js?v=260626
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\theme-app.js
+Content Type: application/javascript
+
+Uri: https://amfdigitalstudio-story.com/themes/themes-scroll.js?v=260626
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\themes\themes-scroll.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&display=swap
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkmetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPkUetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPlKetgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPm9fdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPmUfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnKfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\playfair\v10\0nkQC9D7PO4KhmUJ5_zTZ_4MYQXznAK-TUcZXKO3UMnW6VNpe4-SiiZ4b8h5G3GutPnzfdgd.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcObBZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOddZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOe5Zqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOQJeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOTBeqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOW5eqyc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfair/v10/0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\s\playfair\v10\0nkSC9D7PO4KhmUJ59baVQ_iWhg0cgSrLQZDFpFUsLCFf_1ubkfQeG9KkBAQcOsAs-zcOZlZqyc.ttf
+Content Type: font/ttf
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\beacon.min.js\v31edd6df95cf4e85bb4c19e7a9bdbcba1788362987495
+Content Type: text/javascript
+
+Uri: https://unpkg.com/@phosphor-icons/web@2.0.3/src/fill/Phosphor-Fill.svg
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\@phosphor-icons\web@2.0.3\src\fill\Phosphor-Fill.svg
+Content Type: image/svg+xml
+
+Uri: https://unpkg.com/@phosphor-icons/web@2.0.3/src/fill/Phosphor-Fill.ttf
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\@phosphor-icons\web@2.0.3\src\fill\Phosphor-Fill.ttf
+Content Type: font/ttf
+
+Uri: https://unpkg.com/@phosphor-icons/web@2.0.3/src/fill/Phosphor-Fill.woff
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\@phosphor-icons\web@2.0.3\src\fill\Phosphor-Fill.woff
+Content Type: font/woff
+
+Uri: https://unpkg.com/@phosphor-icons/web@2.0.3/src/fill/Phosphor-Fill.woff2
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\@phosphor-icons\web@2.0.3\src\fill\Phosphor-Fill.woff2
+Content Type: font/woff2
+
+Uri: https://unpkg.com/@phosphor-icons/web@2.0.3/src/fill/style.css
+File Name: C:\Downloaded Web Sites\amfdigitalstudio-story.com\@phosphor-icons\web@2.0.3\src\fill\style.css
+Content Type: text/css
+

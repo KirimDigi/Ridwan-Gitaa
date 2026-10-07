@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Brigesta';
+    src: url('brigesta-regular-400.eot');
+    src: url('brigesta-regular-400.eot?#iefix') format('embedded-opentype'),
+         url('brigesta-regular-400.woff2') format('woff2'),
+         url('brigesta-regular-400.woff') format('woff'),
+         url('brigesta-regular-400.ttf')  format('truetype'),
+         url('brigesta-regular-400.svg#Brigesta') format('svg');
+}
